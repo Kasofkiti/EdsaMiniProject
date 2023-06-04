@@ -27,6 +27,7 @@ h1 {
     flex-direction: row;
     gap: 8px;
     justify-content: center;
+    
 }
 .form1 {
     display: flex;
@@ -39,12 +40,14 @@ h1 {
 .form1 > p {
     margin-top: 2px;
     font-size: 14px;
+    color: #667085;
 }
 input {
     width: 360px;
     height: 48px;
     border-radius: 8px;
     color: #667085;
+    
 }
 button {
     color: white;
